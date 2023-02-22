@@ -1,11 +1,7 @@
 ### Hi there 👋, I'm Lynda
 
-<!--
-**Lyn-12/lyn-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - I'm a data scientist who is passionate about providing insights from raw data.
+
 **Languages and Tools** 
 ![image](https://user-images.githubusercontent.com/64370754/220618305-2d69220b-4bb7-4ac0-b402-515355479993.png)
 ![image](https://user-images.githubusercontent.com/64370754/220618412-bf10168c-d953-4eba-8188-644ff6853f74.png)
