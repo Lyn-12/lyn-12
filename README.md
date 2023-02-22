@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Lynda
 
-- I'm a data scientist who is passionate about providing insights from raw data.
+- I'm a data scientist who is passionate about providing high level insights from raw data using data analysis tools.
 
 **Languages and Tools** 
 
